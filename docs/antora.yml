@@ -1,6 +1,6 @@
 name: api-a
 title: API a
-version: 'latest'
+version: 'v1.0'
 nav:
 - modules/ROOT/nav.adoc
 - modules/endpoints/nav.adoc
